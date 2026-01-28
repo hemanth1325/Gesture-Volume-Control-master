@@ -57,7 +57,7 @@ Fingers far apart	High volume
 Fingers very close	Visual alert (red line)
 🚀 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/hand-gesture-volume-control.git
+git clone https://github.com/hemanth1325/Gesture-Volume-Control-master
 cd hand-gesture-volume-control
 
 2️⃣ Create virtual environment (recommended)
